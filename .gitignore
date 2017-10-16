@@ -1,0 +1,4 @@
+out_file/
+out_file/**
+venv/**
+.idea/**
